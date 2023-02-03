@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estore", "Estore\Estore.csproj", "{F612BE52-8E82-4351-8705-D7705CB96247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatelogService", "CatelogService\CatelogService.csproj", "{9E4471FE-2292-4162-A5FC-90F7362EB7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMService", "CRMService\CRMService.csproj", "{91FEA548-660B-4BE4-B9D5-141B211FB311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MembershipService", "MembershipService\MembershipService.csproj", "{EF8DAD8A-8F35-4CEC-8C8D-F079FD0DD511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F612BE52-8E82-4351-8705-D7705CB96247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F612BE52-8E82-4351-8705-D7705CB96247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F612BE52-8E82-4351-8705-D7705CB96247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F612BE52-8E82-4351-8705-D7705CB96247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4471FE-2292-4162-A5FC-90F7362EB7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4471FE-2292-4162-A5FC-90F7362EB7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4471FE-2292-4162-A5FC-90F7362EB7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4471FE-2292-4162-A5FC-90F7362EB7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FEA548-660B-4BE4-B9D5-141B211FB311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FEA548-660B-4BE4-B9D5-141B211FB311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FEA548-660B-4BE4-B9D5-141B211FB311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FEA548-660B-4BE4-B9D5-141B211FB311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8DAD8A-8F35-4CEC-8C8D-F079FD0DD511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8DAD8A-8F35-4CEC-8C8D-F079FD0DD511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8DAD8A-8F35-4CEC-8C8D-F079FD0DD511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8DAD8A-8F35-4CEC-8C8D-F079FD0DD511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
